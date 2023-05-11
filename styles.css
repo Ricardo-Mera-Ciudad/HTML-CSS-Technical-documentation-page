@@ -49,7 +49,6 @@ body{
 
 .section-code{
 font-family: monospace;
-    white-space: pre-line;
     padding: 10px;
     background-color: #f7f7f7;
 }
